@@ -1,2 +1,2 @@
 # AtCoder
-Atcoderで作ったものたち。
+Atcoder(プログラミングコンテスト)で作ったものたち。
